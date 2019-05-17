@@ -1,0 +1,4 @@
+data/
+.ipynb_checkpoints/
+dialogue_detection/tools/stanford-corenlp-full-2018-10-05/
+dialogue_detection/tools/stanford-english-kbp-corenlp-2018-10-05-models.jar

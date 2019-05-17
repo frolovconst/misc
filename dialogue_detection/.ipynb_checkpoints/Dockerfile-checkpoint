@@ -1,0 +1,6 @@
+FROM openjdk:latest
+
+RUN sudo apt-get update
+RUN sudo apt-get install python
+
+CMD["python", "extract_dialogues.py" "x00.txt"]
